@@ -29,4 +29,3 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/varsinikadirvel?theme=transparent&font=IBM%20Plex%20Serif&ext=heatmap)
 
-[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=varsini10&theme=dracula)](https://github.com/varsini10/github-readme-activity-graph)
