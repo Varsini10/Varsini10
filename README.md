@@ -8,8 +8,6 @@
 
 - 📫 How to reach me **varsinikadirvel@gmail.com**
 
-- 📄 Know about my experiences [https://purple-holly-anne-74.tiiny.site](https://purple-holly-anne-74.tiiny.site)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/varsini kadirvel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varsini kadirvel" height="30" width="40" /></a>
