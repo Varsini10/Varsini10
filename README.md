@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/varsini kadirvel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varsini kadirvel" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/varsinikadirvel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varsini kadirvel" height="30" width="40" /></a>
 <a href="varsinikadirvel@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/gmail-new.png" height="48" width="48" /></a>
 </p>
 
