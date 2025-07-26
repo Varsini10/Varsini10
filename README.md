@@ -2,8 +2,8 @@
 <h3 align="center">⚡A passionate engineering student⚡</h3>
 
 - 👩‍🎓 Studying Electronics and Communication Engineering
-- 🌱 I’m currently learning **Javascript, C(DSA)**
-- 💭 Skilled in AUTOSAR basics and relevant tools (EBTresos, Artop, SmartWheels, PCAN, CANdb++) 
+- 🌱 I’m currently learning **Javascript, DSA**
+- 💭 Skilled in **AUTOSAR** basics and relevant tools (EBTresos, Artop, SmartWheels, PCAN, CANdb++) 
 - 👨‍💻 All of my projects are available at [https://github.com/Varsini10](https://github.com/Varsini10)
 
 - 📫 How to reach me **varsinikadirvel@gmail.com**
